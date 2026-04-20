@@ -1,6 +1,7 @@
 # 👨‍💻 Jefferson Ferreira
 
 🎯 Futuro Analista de Suporte | Infraestrutura | Segurança
+
 💼 3+ anos em Prevenção a Fraudes aplicados à Segurança da Informação
 
 ---
@@ -8,10 +9,15 @@
 ## 🚀 Sobre mim
 
 🎓 4º semestre em Gestão de TI - Fatec Barueri
+
 🛡️ Experiência prática com análise de risco e segurança de transações
+
 🔍 Forte perfil analítico e resolução de problemas
+
 📚 Estudando redes, sistemas e fundamentos de cloud/security
+
 🎯 Focado em conquistar oportunidade como **Estágio ou Suporte Técnico Jr**
+
 
 ---
 
