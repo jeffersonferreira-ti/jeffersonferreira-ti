@@ -1,18 +1,26 @@
 # 👨‍💻 Jefferson Ferreira
 
-🎯 Em transição para a área de Tecnologia da Informação, com foco em **Suporte Técnico, Infraestrutura e Segurança da Informação**.
-
-💼 Experiência sólida em **Prevenção a Fraudes**, atuando na análise de transações financeiras (PIX, TED, cartões), identificação de padrões suspeitos e suporte a operações críticas.
+🎯 Futuro Analista de Suporte | Infraestrutura | Segurança
+💼 3+ anos em Prevenção a Fraudes aplicados à Segurança da Informação
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 4º semestre em Gestão de TI - Fatec Barueri
-* 🛡️ Background em análise de risco e segurança de transações
-* 🔍 Forte pensamento analítico e resolução de problemas
-* 📚 Estudando redes, sistemas e segurança da informação
-* 🎯 Buscando oportunidade como **Estágio ou Suporte Técnico Jr**
+🎓 4º semestre em Gestão de TI - Fatec Barueri
+🛡️ Experiência prática com análise de risco e segurança de transações
+🔍 Forte perfil analítico e resolução de problemas
+📚 Estudando redes, sistemas e fundamentos de cloud/security
+🎯 Focado em conquistar oportunidade como **Estágio ou Suporte Técnico Jr**
+
+---
+
+## 🛠️ Experiência prática relevante
+
+* Análise de transações e comportamento suspeito (PIX, cartões, TED)
+* Investigação de incidentes e suporte a operações críticas
+* Identificação e mitigação de riscos em ambiente financeiro
+* Troubleshooting de sistemas e análise de falhas
 
 ---
 
@@ -28,17 +36,21 @@
 
 ## 📌 Projetos em destaque
 
-🔹 **GymCash**
-App em Flutter para gamificação financeira com ranking entre amigos
-→ Foco em lógica, persistência de dados e experiência do usuário
+🔹 **Log Analyzer v2.0**
+Ferramenta em Python para análise de logs e identificação de padrões e falhas
+→ Processamento e parsing de arquivos de log
+→ Identificação de erros, anomalias e eventos críticos
+→ Foco em troubleshooting, observabilidade e suporte técnico
 
 🔹 **Email Fraud Shield**
-Sistema em Python para análise e detecção de e-mails fraudulentos
-→ Foco em segurança, parsing e análise de risco
+Sistema em Python para detecção de e-mails fraudulentos
+→ Implementação de parser seguro e engine de análise de risco
+→ Foco em segurança, heurísticas e identificação de phishing
 
 🔹 **Diagnostic Tool**
 Ferramenta para diagnóstico de sistema e análise de ambiente
-→ Foco em troubleshooting e suporte técnico
+→ Coleta de informações do sistema e suporte a troubleshooting
+→ Foco em suporte técnico e análise de problemas
 
 ---
 
@@ -48,18 +60,21 @@ Ferramenta para diagnóstico de sistema e análise de ambiente
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonferreira-ti\&layout=compact\&theme=dark)
 
+![Streak](https://streak-stats.demolab.com?user=jeffersonferreira-ti\&theme=dark)
+
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/jefferson-ferreira-ti/
-
+💼 LinkedIn: [https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/jefferson-ferreira-ti/)
 📧 Email: [jluizdasilvaferreira@outlook.com](mailto:jluizdasilvaferreira@outlook.com)
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar na área de TI com foco em **Suporte Técnico, Infraestrutura ou Segurança**, aplicando minha experiência com análise de risco e evoluindo constantemente dentro da área.
+Atuar na área de TI com foco em **Suporte Técnico, Infraestrutura ou Segurança da Informação**, aplicando minha experiência com análise de risco e evoluindo continuamente na área.
+
+📌 Aberto a oportunidades como Estágio ou Suporte Técnico Jr
 
 ---
