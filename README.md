@@ -52,7 +52,7 @@ Ferramenta para diagnóstico de sistema e análise de ambiente
 
 ## 📫 Contato
 
-💼 LinkedIn: [https://www.linkedin.com/in/jefferson-ferreira-ti/]
+💼 LinkedIn: [Jefferson Ferreira] (https://www.linkedin.com/in/jefferson-ferreira-ti/)
 
 📧 Email: [jluizdasilvaferreira@outlook.com](mailto:jluizdasilvaferreira@outlook.com)
 
