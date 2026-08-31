@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 4º semestre em Gestão de TI - Fatec Barueri
+🎓 5º semestre em Gestão de TI - Fatec Barueri
 
 🛡️ Experiência prática com análise de risco e segurança de transações
 
