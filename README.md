@@ -6,7 +6,7 @@
 
 Profissional de TI com atuação em ambiente de datacenter, monitoramento operacional, análise de incidentes e troubleshooting, construindo uma trajetória voltada a **observabilidade, infraestrutura e segurança**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-ferreira-ti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-ferreira-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-jeffersonferreira--ti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffersonferreira-ti)
 
 </div>
@@ -118,7 +118,7 @@ Essa combinação direciona meu desenvolvimento para ambientes em que **visibili
 
 ## 📫 Contato
 
-- 💼 [LinkedIn — Jefferson Ferreira](https://www.linkedin.com/in/jefferson-ferreira-ti/)
+- 💼 [LinkedIn — Jefferson Ferreira](https://www.linkedin.com/in/jefferson-ferreira-tech/)
 - 📧 [jluizdasilvaferreira@outlook.com](mailto:jluizdasilvaferreira@outlook.com)
 - 💻 [GitHub — @jeffersonferreira-ti](https://github.com/jeffersonferreira-ti)
 
