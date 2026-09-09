@@ -105,17 +105,6 @@ Essa combinação direciona meu desenvolvimento para ambientes em que **visibili
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeffersonferreira-ti&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonferreira-ti&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 - 💼 [LinkedIn — Jefferson Ferreira](https://www.linkedin.com/in/jefferson-ferreira-tech/)
