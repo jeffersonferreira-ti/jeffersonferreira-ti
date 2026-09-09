@@ -85,10 +85,10 @@ Ferramenta de diagnóstico de sistema e rede que automatiza a triagem inicial, v
 
 `Python` `Infrastructure` `Networking` `Troubleshooting` `Automation`
 
-### 💰 [Finance AI](https://github.com/jeffersonferreira-ti/Finance-AI)
-Projeto de assistente financeiro pessoal em desenvolvimento, com backend baseado em FastAPI, PostgreSQL, autenticação JWT, Docker e arquitetura evolutiva por fases.
+### 💰 [Finance AI Lite](https://github.com/jeffersonferreira-ti/Finance-AI-Lite)
+Assistente financeiro pessoal conversacional com IA, desenvolvido com **Google Apps Script, Google Sheets e Gemini**, capaz de registrar movimentações em linguagem natural, controlar contas, cartões, assinaturas, metas e orçamentos, além de gerar análises, projeções e resumos financeiros.
 
-`Python` `FastAPI` `PostgreSQL` `Docker` `JWT` `Backend`
+`Google Apps Script` `Google Sheets` `Gemini API` `JavaScript` `AI` `Automation`
 
 ---
 
